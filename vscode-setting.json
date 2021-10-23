@@ -1,0 +1,60 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'Monolisa',Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 12.8,
+  "editor.lineHeight": 19,
+  "editor.fontWeight": "normal",
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorSmoothCaretAnimation": false,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorStyle": "line",
+  "editor.letterSpacing": 0,
+  "editor.formatOnSave": true,
+  "editor.smoothScrolling": true,
+  "explorer.openEditors.visible": 0,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.letterSpacing": 0,
+  "terminal.integrated.fontFamily": "JetBrainsMono NF",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "explorer.compactFolders": false,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+
+  "workbench.startupEditor": "newUntitledFile",
+  "liveServer.settings.donotVerifyTags": true,
+
+  "breadcrumbs.enabled": true,
+
+  "window.menuBarVisibility": "classic",
+  "window.titleBarStyle": "custom",
+
+  "editor.quickSuggestionsDelay": 30,
+  "workbench.activityBar.visible": true,
+  "editor.minimap.enabled": false,
+  "editor.minimap.showSlider": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "oneDarkPro.italic": false,
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.scrollbar.horizontal": "visible",
+  "editor.scrollbar.horizontalScrollbarSize": 15,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.productIconTheme": "icons-carbon",
+  "editor.renderWhitespace": "none",
+  "editor.minimap.renderCharacters": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Halcyon"
+}
